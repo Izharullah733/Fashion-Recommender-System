@@ -59,10 +59,7 @@ The system uses a comprehensive fashion dataset including:
 2. **Build Your Preferences**
    - Browse through available fashion items
    - Click on items you like or would wear
-     <img width="939" height="438" alt="image" src="https://github.com/user-attachments/assets/84254045-625c-4fb8-bc87-3f081a45b034" />
    - System tracks your preferences in real-time
-
-3. **Get Recommendations**
    - Click "Get Personalized Recommendations"
    - Receive AI-curated fashion suggestions
    - Explore different item categories
