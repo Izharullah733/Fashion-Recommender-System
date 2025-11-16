@@ -1,0 +1,11 @@
+Python 3.8+
+
+Streamlit
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Ngrok (for deployment)
