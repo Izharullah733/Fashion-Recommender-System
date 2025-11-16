@@ -34,7 +34,7 @@ An intelligent hybrid fashion recommendation system that combines multiple AI te
 - **Backend**: Python
 - **Machine Learning**: Scikit-learn
 - **Web Framework**: Streamlit
-- **Deployment**: Ngrok tunneling suing deployment.ipynb
+- **Deployment**: Ngrok tunneling suing deployment.ipynb (upload four file (fashion_recommender_app.py, clothing_reviews_train_featured.csv, filtered_train_data.pkl, optimized_hybrid_recommender.pkl))
 
 ## 📁 Dataset
 
