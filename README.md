@@ -77,6 +77,8 @@ The system uses a comprehensive fashion dataset including:
 - ✅ **Real-time Interaction**: Immediate feedback and updates
 - ✅ **User-Friendly Interface**: Simple click-based interaction
 - ✅ **Trend Integration**: Includes popular and trending items
+<img width="936" height="435" alt="image" src="https://github.com/user-attachments/assets/e86d69db-b72e-411f-8d93-38e42910cc2d" />
+
 
 ## 🔧 Installation (Local Development)
 
