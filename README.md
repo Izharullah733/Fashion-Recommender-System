@@ -9,7 +9,7 @@
 
 An intelligent hybrid fashion recommendation system that combines multiple AI techniques to provide personalized clothing suggestions. The system analyzes user preferences and behavior to recommend fashion items that match individual style preferences.
 
-## 🚀 Live Demo
+
 
 
 
