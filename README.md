@@ -1,4 +1,4 @@
-# Fashion-Recommender-System
+# Product-Recommendation-System
 
 
 ![Fashion Recommender](https://img.shields.io/badge/Streamlit-Python%20App-red)
